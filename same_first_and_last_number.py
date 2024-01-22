@@ -8,7 +8,7 @@ def first_and_last_number(number_list):
     first_number = number_list[0]
     last_number = number_list[-1]
 
-    if first_number[0] == last_number[-1]:
+    if first_number == last_number:
         return True
     else:
         return False
