@@ -15,7 +15,7 @@ def first_and_last_number(number_list):
 
 #Print output
 numbers_x = [10, 20, 30, 40, 10]
-print("For numbers_x:", first_and_last_number(numbers_x))
+print("result is", first_and_last_number(numbers_x))
 
 numbers_y = [75, 65, 35, 75, 30]
-print("For numbers_y:", first_and_last_number(numbers_y)) 
+print("result is", first_and_last_number(numbers_y)) 
